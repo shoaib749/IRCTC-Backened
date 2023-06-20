@@ -1,7 +1,4 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#irctc-backened)
-
-# ➤ IRCTC-Backened
+# IRCTC-Backened
 This is a Spring Boot application that provides APIs for managing train bookings. The application uses MySQL as the database for storing all the data. Whenever a request is received from the frontend, the application processes the request and sends the response in the form of JSON.
 
 API Endpoints
